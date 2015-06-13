@@ -1,6 +1,8 @@
 # Liquid Fire Branding
 
-[![liquid fire banner][banner]][banner]
+<p align="center">
+<img src="https://raw.githubusercontent.com/ryannpierce/open-source-branding/master/liquid-fire/liquid-fire_github-banner.png">
+</p>
 
 Open source branding for [Liquid Fire][project] created by [Ryann Pierce][creator].
 
