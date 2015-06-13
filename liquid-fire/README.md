@@ -10,6 +10,6 @@
 
 [hero]: https://raw.githubusercontent.com/ryannpierce/open-source-branding/master/liquid-fire/liquid-fire_concepts.png
 [image1png]: https://raw.githubusercontent.com/ryannpierce/open-source-branding/master/liquid-fire/liquid-fire_color-icon.png
-[image1svg]: https://raw.githubusercontent.com/ryannpierce/open-source-branding/master/liquid-fire/liquid-fire_color-icon.svg
+[image1svg]: https://rawgit.com/ryannpierce/open-source-branding/master/liquid-fire/liquid-fire_color-icon.svg
 [image2png]: https://raw.githubusercontent.com/ryannpierce/open-source-branding/master/liquid-fire/liquid-fire_grayscale-icon.png
-[image2svg]: https://raw.githubusercontent.com/ryannpierce/open-source-branding/master/liquid-fire/liquid-fire_grayscale-icon.svg
+[image2svg]: https://rawgit.com/ryannpierce/open-source-branding/master/liquid-fire/liquid-fire_grayscale-icon.svg
