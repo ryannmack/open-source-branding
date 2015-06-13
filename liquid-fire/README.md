@@ -8,6 +8,8 @@ Open source branding for [Liquid Fire][project] created by [Ryann Pierce][creato
 
 > Animations & transitions for ambitious Ember applications.
 
+[![liquid fire sketch file][sketchicon] liquid-fire-icon-design.sketch][sketchdoc]
+
 ## Icons
 
 | png  | svg |
@@ -34,6 +36,8 @@ work. If not, see <http://creativecommons.org/licenses/by/4.0/>.
 [banner]: https://raw.githubusercontent.com/ryannpierce/open-source-branding/master/liquid-fire/liquid-fire_github-banner.png
 [creator]: https://github.com/ryannpierce
 [project]: https://github.com/ef4/liquid-fire
+[sketchicon]: https://raw.githubusercontent.com/ryannpierce/open-source-branding/master/misc/sketch-icon.png
+[sketchdoc]: https://raw.githubusercontent.com/ryannpierce/open-source-branding/master/liquid-fire/liquid-fire-icon-design.sketch
 [image1png]: https://raw.githubusercontent.com/ryannpierce/open-source-branding/master/liquid-fire/liquid-fire_color-icon.png
 [image1svg]: https://rawgit.com/ryannpierce/open-source-branding/master/liquid-fire/liquid-fire_color-icon.svg
 [image2png]: https://raw.githubusercontent.com/ryannpierce/open-source-branding/master/liquid-fire/liquid-fire_grayscale-icon.png
