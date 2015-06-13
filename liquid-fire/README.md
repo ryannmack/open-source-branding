@@ -8,7 +8,9 @@ Open source branding for [Liquid Fire][project] created by [Ryann Pierce][creato
 
 > Animations & transitions for ambitious Ember applications.
 
-[![liquid fire sketch file][sketchicon] liquid-fire-icon-design.sketch][sketchdoc]
+## Sketch File Dowload
+
+[![sketchicon] liquid-fire-icon-design.sketch][sketchdoc]
 
 ## Icons
 
