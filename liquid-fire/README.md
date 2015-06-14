@@ -35,7 +35,6 @@ You should have received a copy of the license along with this
 work. If not, see <http://creativecommons.org/licenses/by/4.0/>. 
 ```
 
-[banner]: https://raw.githubusercontent.com/ryannpierce/open-source-branding/master/liquid-fire/liquid-fire_github-banner.png
 [creator]: https://github.com/ryannpierce
 [project]: https://github.com/ef4/liquid-fire
 [sketchicon]: https://raw.githubusercontent.com/ryannpierce/open-source-branding/master/misc/sketch-icon.png
