@@ -39,7 +39,7 @@ You should have received a copy of the license along with this
 work. If not, see <http://creativecommons.org/licenses/by/4.0/>. 
 ```
 
-[cv]: https://github.com/ryannpierce
+[creator]: https://github.com/ryannpierce
 [project]: https://github.com/ef4/liquid-fire
 [sketchicon]: https://raw.githubusercontent.com/ryannpierce/open-source-branding/master/misc/sketch-icon.png
 [sketchdoc]: https://raw.githubusercontent.com/ryannpierce/open-source-branding/master/liquid-fire/liquid-fire-icon-design.sketch
@@ -47,5 +47,5 @@ work. If not, see <http://creativecommons.org/licenses/by/4.0/>.
 [image1svg]: https://rawgit.com/ryannpierce/open-source-branding/master/liquid-fire/liquid-fire_color-icon.svg
 [image2png]: https://raw.githubusercontent.com/ryannpierce/open-source-branding/master/liquid-fire/liquid-fire_grayscale-icon.png
 [image2svg]: https://rawgit.com/ryannpierce/open-source-branding/master/liquid-fire/liquid-fire_grayscale-icon.svg
-[concepts]: https://raw.githubusercontent.com/ryannpierce/open-source-branding/master/liquid-fire/liquid-fire_concepts.png
+[cv]: https://raw.githubusercontent.com/ryannpierce/open-source-branding/master/liquid-fire/liquid-fire_concepts.png
 [ipr]: https://github.com/ef4/liquid-fire/pull/304
