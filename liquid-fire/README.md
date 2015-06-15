@@ -25,7 +25,7 @@ Open source branding for [Liquid Fire][project] created by [Ryann Pierce][creato
 
 ## History
 
-- [Inital pull request][ipr]
+- [Initial pull request][ipr]
 
 ## License
 
