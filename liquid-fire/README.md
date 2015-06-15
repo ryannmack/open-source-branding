@@ -19,9 +19,9 @@ Open source branding for [Liquid Fire][project] created by [Ryann Pierce][creato
 | [![liquid fire color icon][image1png]][image1png]  | [![liquid fire color icon][image1svg]][image1svg] |
 | [![liquid fire grayscale icon][image2png]][image2png]  | [![liquid fire grayscale icon][image2svg]][image2svg] |
 
-## Concepts
+## Color Variations
 
-[![liquid fire concepts][concepts]][concepts]
+[![liquid fire color variations][cv]][cv]
 
 ## License
 
@@ -35,7 +35,7 @@ You should have received a copy of the license along with this
 work. If not, see <http://creativecommons.org/licenses/by/4.0/>. 
 ```
 
-[creator]: https://github.com/ryannpierce
+[cv]: https://github.com/ryannpierce
 [project]: https://github.com/ef4/liquid-fire
 [sketchicon]: https://raw.githubusercontent.com/ryannpierce/open-source-branding/master/misc/sketch-icon.png
 [sketchdoc]: https://raw.githubusercontent.com/ryannpierce/open-source-branding/master/liquid-fire/liquid-fire-icon-design.sketch
