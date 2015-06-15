@@ -23,6 +23,10 @@ Open source branding for [Liquid Fire][project] created by [Ryann Pierce][creato
 
 [![liquid fire color variations][cv]][cv]
 
+## History
+
+- [Inital pull request][ipr]
+
 ## License
 
 ```
@@ -44,3 +48,4 @@ work. If not, see <http://creativecommons.org/licenses/by/4.0/>.
 [image2png]: https://raw.githubusercontent.com/ryannpierce/open-source-branding/master/liquid-fire/liquid-fire_grayscale-icon.png
 [image2svg]: https://rawgit.com/ryannpierce/open-source-branding/master/liquid-fire/liquid-fire_grayscale-icon.svg
 [concepts]: https://raw.githubusercontent.com/ryannpierce/open-source-branding/master/liquid-fire/liquid-fire_concepts.png
+[ipr]: https://github.com/ef4/liquid-fire/pull/304
